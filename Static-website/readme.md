@@ -3,8 +3,9 @@
 
 ## 🌐 How I Hosted a Static Website on AWS S3 (Unsecured)
 
-In this Contents, I'm going to walk you through how I hosted a simple static website on Amazon S3. This is great for testing or demo purposes where you don't need SSL (HTTPS). Follow along!
+In this  my Content, I'm going to walk you through how I hosted a simple static website on Amazon S3. This is great for testing or demo purposes where you don't need SSL (HTTPS). Follow along!
 
+---
 
 ---
 
@@ -133,7 +134,7 @@ my-static-website/
 
 ---
 
-If you're following this and something goes wrong, double-check your bucket name and permissions. Hope this helps someone else too! 😊
+If you're following this and something goes wrong, double-check your bucket names and permissions. Hope this helps someone else too! 😊
 
 ```
 
