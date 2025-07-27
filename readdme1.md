@@ -3,7 +3,7 @@
 
 ## 🌐 How I Hosted a Static Website on AWS S3 (Unsecured)
 
-In this guide, I'm going to walk you through how I hosted a simple static website on Amazon S3. This is great for testing or demo purposes where you don't need SSL (HTTPS). Follow along!
+In this Contents, I'm going to walk you through how I hosted a simple static website on Amazon S3. This is great for testing or demo purposes where you don't need SSL (HTTPS). Follow along!
 
 
 ---
@@ -16,7 +16,7 @@ First, I logged into my AWS Management Console and went to the **S3** service. H
 2. Gave my bucket a unique name (e.g., `my-static-website-demo`).
 3. **Disabled** "Block all public access" (important for public website).
 4. Left other options as default.
-5. Clicked **Create bucket** at the bottom.
+5. Clicked **Create bucket** at the bottom..
 
 > 💡 Tip: The bucket name must be globally unique and follow DNS-compliant naming (no uppercase letters, no spaces).
 
